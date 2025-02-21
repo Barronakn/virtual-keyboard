@@ -3,6 +3,8 @@
 ## 📌 Description
 Ce projet est un clavier virtuel interactif développé avec React.js, TypeScript et TailwindCSS. Il permet aux utilisateurs de saisir du texte en utilisant une interface ergonomique et stylisée tout en pouvant faire un Ctrl+Z même sur téléphone.
 
+![](<public/assets/Capture d’écran du 2025-02-21 11-09-32.png>)
+
 ## 🚀 Technologies utilisées
 - **Framework Frontend** : React.js (TypeScript)
 - **Styles** : TailwindCSS
@@ -18,7 +20,7 @@ Ce projet est un clavier virtuel interactif développé avec React.js, TypeScrip
 ## 🔧 Installation et exécution en local
 1. **Cloner le projet**  
    ```bash
-   git clone https://github.com/nom-utilisateur/virtual-keyboard.git
+   git clone https://github.com/Barronakn/virtual-keyboard.git
    cd virtual-keyboard
    ```
 
