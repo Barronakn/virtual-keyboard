@@ -3,7 +3,7 @@
 ## 📌 Description
 Ce projet est un clavier virtuel interactif développé avec React.js, TypeScript et TailwindCSS. Il permet aux utilisateurs de saisir du texte en utilisant une interface ergonomique et stylisée tout en pouvant faire un Ctrl+Z même sur téléphone.
 
-![](<public/assets/Capture d’écran du 2025-02-21 11-09-32.png>)
+![](<public/Capture d’écran du 2025-02-21 11-09-32.png>)
 
 ## 🚀 Technologies utilisées
 - **Framework Frontend** : React.js (TypeScript)
